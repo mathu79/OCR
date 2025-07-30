@@ -1,0 +1,16 @@
+{
+  "short_name": "מערכת חילוץ נתונים",
+  "name": "מערכת חילוץ נתונים ממסמכים",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#3B82F6",
+  "background_color": "#F8FAFC",
+  "description": "מערכת מתקדמת לחילוץ נתונים אוטומטי ממסמכים בעברית ובאנגלית"
+}
